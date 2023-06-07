@@ -1,7 +1,9 @@
 import React from 'react'
 
-export default function ot() {
+function Pokemon() {
   return (
-    <div>ot</div>
+    <div>Pokemon</div>
   )
 }
+
+export default Wrapper(Pokemon); 

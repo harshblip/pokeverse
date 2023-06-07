@@ -1,10 +1,13 @@
  import React from 'react'
  import Wrapper from '../sections/Wrapper';
- imp
+ import Compare from './Compare';
 
- export default function About() {
+ function About() {
    return (
-     <div>About</div>
+     <div>
+      
+     </div>
    )
  }
  
+export default Wrapper(Compare);
