@@ -9,6 +9,7 @@ import MyList from './pages/MyList';
 import About from './pages/About';
 import Compare from './pages/Compare';
 import Pokemon from './pages/Pokemon';
+import Wrapper from './sections/Wrapper';
 import './scss/index.scss';
 
 export default function App() {
