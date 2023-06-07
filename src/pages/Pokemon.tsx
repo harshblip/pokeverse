@@ -1,7 +1,7 @@
 import React from 'react'
 
-export default function Pokemon() {
+export default function ot() {
   return (
-    <div>Pokemon</div>
+    <div>ot</div>
   )
 }
