@@ -1,7 +1,11 @@
-import React from 'react'
+import React, { Component } from 'react'
 
-export default function Wrapper() {
+const Wrapper = (Component:React.FC) => () => {
   return (
-    <div>Wrapper</div>
+    <div className = "content">
+        <Component/>
+    </div>
   )
 }
+
+export default Wrapper;
