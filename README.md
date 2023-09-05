@@ -1,3 +1,22 @@
+# Pokedex 
+Description
+
+The Pokedex project is a dynamic web application that serves as a comprehensive Pokemon encyclopedia. Users can effortlessly access detailed information about various Pokemon, including their health, strength, weight, and fighting capabilities. Built using React, Redux, and Firebase, this project showcases the seamless integration of these technologies. React provides a robust user interface, Redux ensures efficient state management, and Firebase enhances the application with user authentication and real-time data updates. It's a showcase of my proficiency in modern web development and the successful application of these technologies to create an interactive and visually appealing frontend project.
+
+- What did I learn ?
+State Management: The project allowed me to master Redux for state management, enabling efficient data flow and organization across components.
+
+Firebase Integration: I learned how to seamlessly integrate Firebase for user authentication and real-time data storage, enhancing the application's functionality.
+
+Frontend Best Practices: I became proficient in front-end development best practices, optimizing performance and code structure.
+
+Problem-Solving: Complex challenges, such as real-time updates and data synchronization, sharpened my problem-solving skills.
+
+Project Management: I improved my project planning and organization abilities, ensuring timely completion and successful deployment.
+
+User Experience: Understanding user needs and preferences was crucial in creating an engaging and user-friendly application.
+
+## Installation
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) TS template.
@@ -44,3 +63,17 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Technologies used
+ - ReactJs
+ - Firebase
+ - Redux
+ - Axios
+ - SCSS
+## Screenshots
+### Firebase Storage
+![image](https://xp.io/storage/173M4gRA.png)
+### Pokemon List
+![image](https://xp.io/storage/173QxmIl.png)
+### Firebase Authentication
+![image](https://xp.io/storage/173S4bOM.png)
