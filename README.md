@@ -1,9 +1,39 @@
-# Pokedex 
-Description
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/228053/screenshots/2760950/media/dda6693c667fad75eba263f67c668d3a.jpg?resize=800x600&vertical=center" height="150" width="200" />
+</p>
+<h1 align="center">Pokedex</h1>
 
-The Pokedex project is a dynamic web application that serves as a comprehensive Pokemon encyclopedia. Users can effortlessly access detailed information about various Pokemon, including their health, strength, weight, and fighting capabilities. Built using React, Redux, and Firebase, this project showcases the seamless integration of these technologies. React provides a robust user interface, Redux ensures efficient state management, and Firebase enhances the application with user authentication and real-time data updates. It's a showcase of my proficiency in modern web development and the successful application of these technologies to create an interactive and visually appealing frontend project.
+<h3 align="center">One-stop platform to know all your pokemons</h3>
 
-- What did I learn ?
+ <p align="center">
+     <img src = "https://img.shields.io/badge/react-%2345b8d8.svg?style=for-the-badge&logo=react&logoColor=white" />
+     <img src = "https://img.shields.io/badge/firebase-%23F9A03C.svg?style=for-the-badge&logo=firebase&logoColor=white" />
+     <img src = "https://img.shields.io/badge/redux-%23311C87.svg?style=for-the-badge&logo=redux&logoColor=white" />
+     <img src = "https://img.shields.io/badge/axios-%235849BE.svg?style=for-the-badge&logo=axios&logoColor=white" />
+     <img src = "https://img.shields.io/badge/scss-%23E10098.svg?style=for-the-badge&logo=scss&logoColor=white" />
+ </p>
+
+<div align="center">
+ 
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/kothariji/SyntaxMeets) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kothariji/SyntaxMeets)
+
+</div>
+
+<div align="center">
+   <img src = "https://img.shields.io/badge/time_taken-1mo-blue" />
+   <img src = "https://img.shields.io/badge/developers_involved-solo-blue" />
+   <img src = "https://komarev.com/ghpvc/?username=harshblip&label=Project+Views" />
+</div>
+
+## Description
+
+The Pokedex project is a dynamic web application that serves as a comprehensive Pokemon encyclopedia. Users can effortlessly access detailed information about various Pokemon, including their health, strength, weight, and fighting capabilities. 
+Built using ```React```, ```Redux```, and ```Firebase```, this project showcases the seamless integration of these technologies. 
+React provides a robust user interface, Redux ensures efficient state management.
+Firebase enhances the application with user authentication and real-time data updates. 
+It's a showcase of my proficiency in modern web development and the successful application of these technologies to create an interactive and visually appealing frontend project.
+
+## What did I learn ?
 State Management: The project allowed me to master Redux for state management, enabling efficient data flow and organization across components.
 
 Firebase Integration: I learned how to seamlessly integrate Firebase for user authentication and real-time data storage, enhancing the application's functionality.
@@ -65,15 +95,19 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ### Technologies used
- - ReactJs
- - Firebase
- - Redux
- - Axios
- - SCSS
+ ![React](https://img.shields.io/badge/react-%2345b8d8.svg?style=for-the-badge&logo=react&logoColor=white)
+ ![Firebase](https://img.shields.io/badge/firebase-%23F9A03C.svg?style=for-the-badge&logo=firebase&logoColor=white)
+ ![Redux](https://img.shields.io/badge/redux-%23311C87.svg?style=for-the-badge&logo=redux&logoColor=white)
+ ![Axios](https://img.shields.io/badge/axios-%235849BE.svg?style=for-the-badge&logo=axios&logoColor=white)
+ ![SCSS](https://img.shields.io/badge/scss-%23E10098.svg?style=for-the-badge&logo=scss&logoColor=white)
 ## Screenshots
+### Poke-Profile
+![image](/images/pokemon.png)
 ### Firebase Storage
-![image](https://xp.io/storage/173M4gRA.png)
+![image](/images/firebase.png)
 ### Pokemon List
-![image](https://xp.io/storage/173QxmIl.png)
+![image](/images/search.png)
 ### Firebase Authentication
-![image](https://xp.io/storage/173S4bOM.png)
+![image](/images/authed-list.png)
+### Comparing Pokemons
+![image](/images/compare.png)
