@@ -6,16 +6,16 @@
 <h3 align="center">One-stop platform to know all your pokemons</h3>
 
  <p align="center">
+     <img src = "https://img.shields.io/badge/typescript-%235849BE.svg?style=for-the-badge&logo=typescript&logoColor=white" />
      <img src = "https://img.shields.io/badge/react-%2345b8d8.svg?style=for-the-badge&logo=react&logoColor=white" />
      <img src = "https://img.shields.io/badge/firebase-%23F9A03C.svg?style=for-the-badge&logo=firebase&logoColor=white" />
      <img src = "https://img.shields.io/badge/redux-%23311C87.svg?style=for-the-badge&logo=redux&logoColor=white" />
-     <img src = "https://img.shields.io/badge/axios-%235849BE.svg?style=for-the-badge&logo=axios&logoColor=white" />
      <img src = "https://img.shields.io/badge/scss-%23E10098.svg?style=for-the-badge&logo=scss&logoColor=white" />
  </p>
 
 <div align="center">
  
-  [![forthebadge](https://forthebadge.com/images/badges/made-with-javascript.svg)](https://github.com/kothariji/SyntaxMeets) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kothariji/SyntaxMeets)
+  [![forthebadge](https://forthebadge.com/images/badges/made-with-typescript.svg)](https://github.com/harshblip/pokeverse) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/harshblip/pokeverse)
 
 </div>
 
